@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+}
+li{
+    color: black;
+}
+form{
+    margin-top: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
